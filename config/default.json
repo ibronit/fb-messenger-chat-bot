@@ -1,0 +1,7 @@
+{
+  "facebook": {
+    "page": {
+      "access_token": "Your fb app access token"
+    }
+  }
+}
